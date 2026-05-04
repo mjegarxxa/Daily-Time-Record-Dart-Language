@@ -18,3 +18,5 @@ Profile Page UI
 
 Settings Page UI
 <img width="325" height="698" alt="image" src="https://github.com/user-attachments/assets/6b1758e3-774b-46b7-b7fc-4d362263e4cb" />
+<img width="318" height="696" alt="image" src="https://github.com/user-attachments/assets/04097c34-1c62-4ff6-a323-adb641a70110" />
+
