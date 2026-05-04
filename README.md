@@ -14,7 +14,7 @@ History Page UI
 <img width="327" height="696" alt="image" src="https://github.com/user-attachments/assets/c00650bc-b60f-434d-86c7-8f46eca0c7f7" />
 
 Profile Page UI
-<img width="330" height="688" alt="image" src="https://github.com/user-attachments/assets/40d5450b-c0e5-4c35-a280-c90f6c500dd7" />
+<img width="332" height="699" alt="image" src="https://github.com/user-attachments/assets/d56ae857-4d1d-455a-a070-545a74ab8b2a" />
 
 Settings Page UI
 <img width="325" height="698" alt="image" src="https://github.com/user-attachments/assets/6b1758e3-774b-46b7-b7fc-4d362263e4cb" />
